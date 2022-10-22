@@ -3,4 +3,3 @@ $Paths = $AppDataMain | Resolve-Path
 for($i=0;$i -le $Paths.count;$i++){
 $Paths[$i];
 }
->>>>>>> UpdateText
